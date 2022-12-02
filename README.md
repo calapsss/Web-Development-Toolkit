@@ -26,6 +26,9 @@ https://react-icons.github.io/react-icons/search?q=three
 https://supabase.com/docs
 https://supabase.com/docs/guides/with-react
 
+#### Supabase React Github Repo
+https://github.com/supabase/supabase/tree/master/examples/user-management/react-user-management
+
 
 
 
